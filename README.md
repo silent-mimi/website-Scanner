@@ -8,7 +8,7 @@ pkg install python
 pkg install git
 git clone https://github.com/silent-mimi/website-Scanner.git
 cd website-Scanner
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 # running in termux
